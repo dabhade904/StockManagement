@@ -1,0 +1,19 @@
+{
+  "stock": [
+    {
+      "stockName": "BridgeLabz",
+      "stockPrice": 5,
+      "totalShare": 20
+    },
+    {
+      "stockName": "Dmart",
+      "stockPrice": 5,
+      "totalShare": 20
+    },
+    {
+      "stockName": "xyz",
+      "stockPrice": 5,
+      "totalShare": 20
+    }
+  ]
+}
